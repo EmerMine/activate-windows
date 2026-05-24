@@ -1,5 +1,5 @@
 [Variables] 
-LANGUAGE=EN
+LANGUAGE=ZH-CN
 
 ; Activate Windows text location measurements
 
