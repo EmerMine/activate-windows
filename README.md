@@ -1,6 +1,6 @@
 # Activate Windows
 
-the most faithful Rainmeter recreation of the Activate Windows text overlay
+the most faithful Rainmeter recreation of the Activate Windows text overlay, supported ZH-CN.
 
 # TO DO:
 
